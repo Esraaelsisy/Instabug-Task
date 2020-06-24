@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Instabug Login Testing">
+	<test name="Login Testing ">
+		<classes>
+			<class name="Tests.UserLoginbyEmailTest" />
+		</classes>
+	</test>
+</suite>
